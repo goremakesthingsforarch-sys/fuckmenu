@@ -3,53 +3,47 @@
   "admins": [
     {
       "name": "gore",
-      "user-id": "30CABA3A8C73DCBB",
-      "discord-id": "1049346303798284308"
+      "user-id": "30CABA3A8C73DCBB"
+    },
+    {
+      "name": "1x1x1x1x1",
+      "user-id": "86AF3B9F3A525AA8"
     },
     {
       "name": "industry",
-      "user-id": "4605B2A0900028E1",
-      "discord-id": "1340165954981724255"
+      "user-id": "4605B2A0900028E1"
     },
     {
       "name": "Cha",
-      "user-id": "E561B7176AAC1245",
-      "discord-id": "1353949181571633173"
+      "user-id": "E561B7176AAC1245"
     },
     {
       "name": "Twig",
-      "user-id": "F11FF07F6E028B08",
-      "discord-id": "738573735895892050"
+      "user-id": "F11FF07F6E028B08"
     },
     {
       "name": "kingofnetflix",
-      "user-id": "5DD755DD4897ECED",
-      "discord-id": "1479765842131681350"
+      "user-id": "5DD755DD4897ECED"
     },
     {
       "name": "Inoxi",
-      "user-id": "F7A8BE00DE85C3A2",
-      "discord-id": "786545961429499914"
+      "user-id": "F7A8BE00DE85C3A2"
     },
     {
       "name": "testofficialxd",
-      "user-id": "A4AA347B576A5AAD",
-      "discord-id": "1244744453990776932"
+      "user-id": "A4AA347B576A5AAD"
     },
     {
       "name": "Lerpy",
-      "user-id": "EBF4D7AE3CD9E4E6",
-      "discord-id": "792576219785986090"
+      "user-id": "EBF4D7AE3CD9E4E6"
     },
     {
       "name": "ZlothY",
-      "user-id": "C77E23EEDAECB338",
-      "discord-id": "832552302027079710"
+      "user-id": "C77E23EEDAECB338"
     },
     {
       "name": "kingofnetflix",
-      "user-id": "19CC01E8F0B98F01",
-      "discord-id": "1479765842131681350"
+      "user-id": "19CC01E8F0B98F01"
     },
   ],
   "super-admins": [
