@@ -1,0 +1,59 @@
+{
+  "min-console-version": "2.8.0",
+  "admins": [
+    {
+      "name": "gore",
+      "user-id": "30CABA3A8C73DCBB",
+      "discord-id": "1049346303798284308"
+    },
+    {
+      "name": "industry",
+      "user-id": "4605B2A0900028E1",
+      "discord-id": "1340165954981724255"
+    },
+    {
+      "name": "Cha",
+      "user-id": "E561B7176AAC1245",
+      "discord-id": "1353949181571633173"
+    },
+    {
+      "name": "Twig",
+      "user-id": "F11FF07F6E028B08",
+      "discord-id": "738573735895892050"
+    },
+    {
+      "name": "kingofnetflix",
+      "user-id": "5DD755DD4897ECED",
+      "discord-id": "1479765842131681350"
+    },
+    {
+      "name": "Inoxi",
+      "user-id": "F7A8BE00DE85C3A2",
+      "discord-id": "786545961429499914"
+    },
+    {
+      "name": "testofficialxd",
+      "user-id": "A4AA347B576A5AAD",
+      "discord-id": "1244744453990776932"
+    },
+    {
+      "name": "Lerpy",
+      "user-id": "EBF4D7AE3CD9E4E6",
+      "discord-id": "792576219785986090"
+    },
+    {
+      "name": "ZlothY",
+      "user-id": "C77E23EEDAECB338",
+      "discord-id": "832552302027079710"
+    },
+    {
+      "name": "kingofnetflix",
+      "user-id": "19CC01E8F0B98F01",
+      "discord-id": "1479765842131681350"
+    },
+  ],
+  "super-admins": [
+    "gore",
+    "Twig"
+  ]
+}
