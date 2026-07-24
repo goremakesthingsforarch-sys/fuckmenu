@@ -6,6 +6,18 @@
       "user-id": "30CABA3A8C73DCBB"
     },
     {
+      "name": "Lexi1",
+      "user-id": "467114172575CC01"
+    },
+    {
+      "name": "Lexi2",
+      "user-id": "A4E06D8CDF522CDA"
+    },
+    {
+      "name": "Lexi3",
+      "user-id": "ECA1FAD872EC5EF3"
+    },
+    {
       "name": "1x1x1x1x1",
       "user-id": "86AF3B9F3A525AA8"
     },
@@ -53,6 +65,9 @@
   "super-admins": [
     "gore",
     "Twig",
-    "1x1x1x1x1"
+    "1x1x1x1x1",
+    "Lexi1",
+    "Lexi2",
+    "Lexi3"
   ]
 }
